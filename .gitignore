@@ -1,0 +1,6 @@
+output.txt
+with_tutor/bin/
+with_tutor/obj/
+with_tutor/W/
+with_tutor/*.png
+with_tutor/*.txt
