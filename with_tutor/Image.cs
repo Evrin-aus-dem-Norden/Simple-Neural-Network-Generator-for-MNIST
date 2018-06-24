@@ -44,7 +44,7 @@ namespace with_tutor
             int numLabels = brLabels.ReadInt32();
 
             int numImages = ReverseBytes(numIm);
-            numImages = 6000;
+            numImages = 60000;
             MnistImage[] result = new MnistImage[numImages];
 
             double[][] labs = new double[numImages][];
